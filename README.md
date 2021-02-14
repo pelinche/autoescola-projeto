@@ -1,6 +1,13 @@
 # Projeto Teste Página Auto Escola
 
 Este projeto foi criado no curso React Profissional.
+As rotinas de documentação foram implementadas usando StoryBook. O comando para visualizar a documentação é
+
+### `yarn storybook`
+
+Foram implementadas as rotinas de testes. Para verificar a abrangência dos arquivos testados, execute no terminal
+
+### `yarn coverage`
 
 ## Available Scripts
 
