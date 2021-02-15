@@ -3,7 +3,7 @@ import {text} from "@storybook/addon-knobs";
 import Heading from '../components/Heading';
 
 export default{
-  title:"Heading",
+  title:"Components/Heading",
   component: Heading
 };
 

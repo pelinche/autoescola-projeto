@@ -8,7 +8,7 @@ import Heading from "../components/Heading";
 
 
 export default{
-  title: "Hero",
+  title: "Components/Hero",
   component: Hero,
 }
 
